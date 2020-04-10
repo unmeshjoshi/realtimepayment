@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.npci.api.models.ReqPayTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-10T14:14:36" hostname="unmesh-Latitude-E7470" time="0.382">
+  <properties/>
+  <testcase name="shouldSerializeReqPayRecord" classname="com.npci.api.models.ReqPayTest" time="0.382"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
